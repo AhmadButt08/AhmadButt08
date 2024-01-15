@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Type Script,Radix UI**
 
-- 👯 I’m looking to collaborate on **Open Source Frontend tools andlibraries**
+- 👯 I’m looking to collaborate on **Open Source Frontend tools and libraries**
 
 - 💬 Ask me about **Current Affairs**
 
