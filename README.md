@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmad Amjad Butt</h1>
-- 🔭 I’m currently working on **Frontend Development.**
-
-- 🌱 I’m currently learning **Type Script,Radix UI**
+- 🔭 I’m currently working as **Full Stack Engineer**
 
 - 👯 I’m looking to collaborate on **Open Source Frontend tools and libraries**
 
