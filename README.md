@@ -12,7 +12,7 @@ Building scalable enterprise applications with clean architecture and modern web
 
 - 💼 Full Stack Software Engineer with **3+ years** of professional experience
 - 🔭 Currently working as a **Full Stack Engineer**
-- 🌱 Currently improving my knowledge of **System Design, Microservices, AWS & DevOps**
+- 🌱 Currently improving my knowledge of **System Design, Microservices & AWS**
 - 👯 Looking to collaborate on **Open Source Java & Angular Projects**
 - 💬 Ask me about **Java, Spring Boot, Angular, PostgreSQL, REST APIs, Docker**
 - ⚡ Passionate about writing **clean, maintainable and scalable code**
