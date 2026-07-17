@@ -83,6 +83,23 @@ public class AhmadAmjadButt {
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3>💎 Gemstone E-Commerce <img src="https://img.shields.io/badge/Ongoing-F59E0B?style=flat" /></h3>
+      <p>Online gemstone marketplace with catalog, cart, checkout & payment handling.</p>
+      <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" />
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white" />
+      <img src="https://img.shields.io/badge/E--Commerce-2EA043?style=flat" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 WhatsApp Chat Bot Platform</h3>
+      <p>QR-based WhatsApp automation bot with broadcast messaging & external API callbacks.</p>
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/whatsapp--web.js-25D366?style=flat&logo=whatsapp&logoColor=white" />
+      <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3>📚 Educational Management System</h3>
       <p>Full-stack platform for institutional management.</p>
       <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" />
@@ -123,23 +140,6 @@ public class AhmadAmjadButt {
     </td>
   </tr>
 </table>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&column=7&margin-w=10" />
-</p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
