@@ -1,20 +1,159 @@
 <h1 align="center">Hi 👋, I'm Ahmad Amjad Butt</h1>
-- 🔭 I’m currently working as **Full Stack Engineer**
 
-- 👯 I’m looking to collaborate on **Open Source Frontend tools and libraries**
+<h3 align="center">Full Stack Software Engineer | Java • Spring Boot • Angular • PostgreSQL</h3>
 
-- 💬 Ask me about **Current Affairs**
-
-- 📫 How to reach me **ahmaddotbutt.786@gmail.com**
-
-<h3 align="left">Social </h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ahmad-amjad-butt/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmad-amjad-butt/" height="30" width="40" /></a>
+<p align="center">
+Building scalable enterprise applications with clean architecture and modern web technologies.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="springboot" width="40" height="40"/>
-</a><a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original-wordmark.svg" alt="angular" width="40" height="40"/>
-</a><a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
+
+## 🚀 About Me
+
+- 💼 Full Stack Software Engineer with **3+ years** of professional experience
+- 🔭 Currently working as a **Full Stack Engineer**
+- 🌱 Currently improving my knowledge of **System Design, Microservices, AWS & DevOps**
+- 👯 Looking to collaborate on **Open Source Java & Angular Projects**
+- 💬 Ask me about **Java, Spring Boot, Angular, PostgreSQL, REST APIs, Docker**
+- ⚡ Passionate about writing **clean, maintainable and scalable code**
+- 📫 Reach me at **ahmaddotbutt.786@gmail.com**
+
+---
+
+## 🌐 Connect with Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/ahmad-amjad-butt/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
+</a>
+</p>
+
+---
+
+## 💻 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,ts,c,cs" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=angular,react,html,css,tailwind,redux" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring,nodejs" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+</p>
+
+### DevOps & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,aws" />
+</p>
+
+---
+
+## 🏆 Professional Experience
+
+### Full Stack Engineer
+**Netkom** *(Jan 2024 – Present)*
+
+- Developed enterprise-level Angular applications.
+- Built scalable REST APIs using Spring Boot.
+- Optimized PostgreSQL databases.
+- Managed GitLab CI/CD pipelines.
+- Containerized applications using Docker.
+- Deployed applications on AWS.
+
+### Front-End Engineer
+**Ralve** *(Feb 2023 – Dec 2023)*
+
+- Developed React.js applications.
+- Built responsive UI using Tailwind CSS.
+- Implemented web scraping solutions.
+- Delivered multiple international projects remotely.
+
+---
+
+## 🚀 Featured Projects
+
+📚 **Educational Management System**
+- Angular
+- Spring Boot
+- PostgreSQL
+
+🏢 **Enterprise Resource Planning (ERP)**
+- HR Module
+- Recruitment
+- Vehicle Tracking
+- Internal Operations
+
+💰 **Ledger Match**
+- Financial Management System
+- Income Tracking
+- Receivables & Payables
+
+🎓 **Online Admission Portal**
+- Application Tracking
+- Document Upload
+- Admin Dashboard
+
+🌍 **UKIM**
+- Enterprise Web Application
+- Angular + Spring Boot
+
+🏨 **Hotel Reservation System**
+- REST APIs
+- Booking Management
+- Angular Frontend
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🛠️ Core Skills
+
+- Java
+- Spring Boot
+- Angular
+- React.js
+- PostgreSQL
+- REST API Development
+- Docker
+- AWS
+- GitLab CI/CD
+- Microservices
+- Software Architecture
+
+---
+
+## 🎯 Fun Fact
+
+> I enjoy solving complex backend problems, optimizing databases, and building scalable enterprise applications.
